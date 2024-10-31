@@ -20,8 +20,9 @@
 - PMS7003 PM2.5 air quality: [Buy on Amazon](https://amzn.to/4e9IItb)
 
 ## Switches
-- Moes (Tuya) wireless switch: [Buy on Amazon](https://amzn.to/47hf2ZA)
+- Philips Hue dimmer switch: [Buy on Amazon](https://amzn.to/3Uv7c9E)
 - Aqara wireless mini switch: [Buy on Amazon](https://amzn.to/3YnjPED)
+- Moes (Tuya) wireless switch: [Buy on Amazon](https://amzn.to/47hf2ZA)
 
 ## 3D Printer
 - Bambu Lab X1C 3D Printer: [Buy direct](https://us.store.bambulab.com/products/x1-carbon)
