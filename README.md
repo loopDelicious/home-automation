@@ -21,6 +21,7 @@
 
 ## Switches
 - Philips Hue dimmer switch: [Buy on Amazon](https://amzn.to/3Uv7c9E)
+- ThirdReality Zigbee smart plug: [Buy on Amazon](https://amzn.to/3CuQ3qe)
 - Aqara wireless mini switch: [Buy on Amazon](https://amzn.to/3YnjPED)
 - Moes (Tuya) wireless switch: [Buy on Amazon](https://amzn.to/47hf2ZA)
 
