@@ -1,0 +1,17 @@
+sensor:
+  - platform: rest
+    name: Tide Level
+    resource: https://api.tidesandcurrents.noaa.gov/api/prod/datagetter
+    params:
+      product: water_level
+      application: HomeAssistant
+      date: today
+      datum: MLLW
+      station: 9414290
+      time_zone: lst_ldt
+      units: english
+      interval: 6
+      format: json
+    value_template: "{{ value_json.data[-1]['v'] }}"
+    unit_of_measurement: "%"
+    scan_interval: 360

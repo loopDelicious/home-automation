@@ -1,0 +1,66 @@
+# history-graph-card
+type: history-graph
+entities:
+  - entity: sensor.tide_level
+show_names: false
+min_y_axis: 0
+max_y_axis: 10
+logarithmic_scale: false
+title: Tide level
+hours_to_show: 24
+
+
+# mini-graph-card
+name: Ocean beach
+hours_to_show: 24
+points_per_hour: 60
+line_width: 4
+smoothing: true
+type: custom:mini-graph-card
+icon: mdi:waves
+entities:
+  - entity: sensor.air_temp
+    show_graph: false
+    show_state: true
+  - entity: sensor.air_temp
+    color: pink
+    show_graph: true
+    show_fill: false
+    name: Air temp
+  - entity: sensor.water_level
+    color: darkblue
+    show_graph: true
+    name: Tide level
+
+
+# entities-card
+type: entities
+icon: mdi:waves
+entities:
+  - entity: sensor.tides_2
+    icon: mdi:waves
+    name: next_tide
+  - entity: sensor.air_temp
+title: Ocean Beach
+footer:
+  type: graph
+  entity: sensor.water_level
+  hours_to_show: 24
+  detail: 1
+state_color: false
+header:
+  type: picture
+  image: /local/beach.png
+  tap_action:
+    action: none
+  hold_action:
+    action: none
+
+
+# entity-badges-card
+type: entity
+show_name: false
+show_state: true
+show_icon: true
+entity: sensor.next_tide
+color: ""
