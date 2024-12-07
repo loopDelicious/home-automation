@@ -18,7 +18,7 @@
 ## Sensors
 - LD2410-C mmwave: [Buy on Amazon](https://amzn.to/3YE11Cx)
 - PMS7003 PM2.5 air quality: [Buy on Amazon](https://amzn.to/4e9IItb)
-- Aqara leak sensor: [Buy on Amazon](https://amzn.to/3ZiIg7P)
+- Aqara water leak detection sensor: [Buy on Amazon](https://amzn.to/3ZiIg7P)
 
 ## Switches
 - Philips Hue dimmer switch: [Buy on Amazon](https://amzn.to/3Uv7c9E)
