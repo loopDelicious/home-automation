@@ -1,7 +1,7 @@
-
-:tv: Visit [my YouTube channel](https://www.youtube.com/@joycejetson) or [my Tiktok](https://www.tiktok.com/@joycejetson) :computer:
-
 # :bulb: Joyce's list for home automation
+
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCCTbz_VyO5sXO9U1pmuxcHg)
+[![TikTok](https://img.shields.io/badge/TikTok-Follow-black?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@joycejetson)
 
 **DISCLAIMER**: I may earn commissions for purchases made through product links. It doesn't increase the cost to you, but helps support me in making videos.
 
