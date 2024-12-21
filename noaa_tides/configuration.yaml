@@ -13,5 +13,5 @@ sensor:
       interval: 6
       format: json
     value_template: "{{ value_json.data[-1]['v'] }}"
-    unit_of_measurement: "%"
+    unit_of_measurement: "ft"
     scan_interval: 360
