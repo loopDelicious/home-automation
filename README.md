@@ -8,6 +8,12 @@
 ## Home Assistant Server
 - Raspberry Pi 4 8GB: [Buy on Amazon](https://amzn.to/4hpN4zA)
 
+## Frigate Server
+- Beelink EQ14 mini PC: [Buy on Amazon](https://amzn.to/4aq3BjH)
+- TP-Link PoE network switch: [Buy on Amazon](https://amzn.to/3PGCHdR)
+- Google Coral TPU (PCIe version): [Buy on Mouser](https://www.mouser.com/ProductDetail/Coral/G650-04686-01?qs=XeJtXLiO41RGZJDf5bMhyQ%3D%3D&countryCode=US&currencyCode=USD)
+- Google Coral TPU (USB version): [Buy on Amazon](https://amzn.to/3CfXAcM)
+
 ## Microcontroller
 - ESP32: [Buy on Amazon](https://amzn.to/3z0jUpk)
 - ESP32-S3: [Buy on Amazon](https://amzn.to/3Uqku6Z)
