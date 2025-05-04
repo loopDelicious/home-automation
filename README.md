@@ -45,3 +45,4 @@
 ## Miscellaneous
 - USB data cable: [Buy on Amazon](https://amzn.to/3XyObEX)
 - Breadboard and wires: [Buy on Amazon](https://amzn.to/3Zi0DKy)
+- Flat USB-A wall charger: [Buy on Amazon](https://amzn.to/430M7aa)
