@@ -3,6 +3,12 @@
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCCTbz_VyO5sXO9U1pmuxcHg)
 [![TikTok](https://img.shields.io/badge/TikTok-Follow-black?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@joycejetson)
 
+<p align="left">
+  <a href="https://coff.ee/joycejetson">
+    <img src="./bmc-button.png" width="150" alt="Buy Me a Coffee" />
+  </a>
+</p>
+
 **DISCLAIMER**: I may earn commissions for purchases made through product links. It doesn't increase the cost to you, but helps support me in making videos.
 
 ## Home Assistant Server
